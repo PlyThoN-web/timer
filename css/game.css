@@ -1,0 +1,33 @@
+.game-field {
+  background-color: orange;
+  min-height: 10vh;
+  margin: 1px 1px 1px 1px;
+  line-height: 10vh;
+}
+
+.target {
+  background-color: green;
+  color: white;
+  font-size: 24pt;
+  text-align: center;
+}
+
+.miss {
+  background-color: red;
+}
+
+.btn {
+  margin-left: 365px;
+}
+
+#button-reload {
+	margin-left: 20px;
+}
+
+.invisible {
+  display: none;
+}
+
+.vanish {
+  display: none;
+}
